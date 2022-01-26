@@ -39,9 +39,15 @@
 
 Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://nextjs.org/learn</a> to get started with Next.js.
 
-## Documentation 
+- To run the Next.js Server : 
+<code>npm run dev</code>
 
-Visit [https://nextjs.org/docs](https://nextjs.org/docs) to view the full documentation.
+
+## Getting Started with Sanity.io
+
+- To run the Sanity Dashboard : 
+<code>cd anshumanblogapp</code> then
+ <code>sanity start</code>
 
 
 ## Deploy your own
