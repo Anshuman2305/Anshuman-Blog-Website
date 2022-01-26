@@ -10,9 +10,17 @@
 
 >Inspired from [Medium.com](https://medium.com/). This Website is built using Next.js with TailwindCSS and Sanity.io as my CMS(Content Management System).</br></br>
 
+![Ping Me Demo](github_img/img8.png)
+
+
 # Fully Responsive Website
 
 ![Ping Me Demo](github_img/img1.png)
+
+# Fully Functional Comment Feature
+>On Submission, the Comment goes straight to the Sanity CMS and get logged there.
+> 
+![Ping Me Demo](github_img/img2.png)
 
 
 ## Deploy your own
