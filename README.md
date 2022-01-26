@@ -22,6 +22,27 @@
 > 
 ![Ping Me Demo](github_img/img2.png)
 
+>Here we can see, the Stored Comments on Sanity CMS. 
+> 
+![Ping Me Demo](github_img/img3.png)
+
+>To show the comment on the Blog page, we(moderator) have/has to approve the comment.  
+> 
+![Ping Me Demo](github_img/img4.png)
+
+>Voila!!! Our Comment is Live on the Blog Page.
+> 
+![Ping Me Demo](github_img/img6.png)
+
+
+## Getting Started with Next.js
+
+Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://nextjs.org/learn</a> to get started with Next.js.
+
+## Documentation 
+
+Visit [https://nextjs.org/docs](https://nextjs.org/docs) to view the full documentation.
+
 
 ## Deploy your own
 
