@@ -5,35 +5,35 @@
   </a>
 </p>
 
-![Ping Me Demo](github_img/img7.png)
+![project info banner](github_img/img7.png)
 
 
 >Inspired from [Medium.com](https://medium.com/). This Website is built using Next.js with TailwindCSS and Sanity.io as my CMS(Content Management System).</br></br>
 
-![Ping Me Demo](github_img/img9.png)
+![click below img](github_img/img9.png)
 [<img src="https://img.youtube.com/vi/R2_EgyAHTW4/maxresdefault.jpg" width="100%">](https://youtu.be/R2_EgyAHTW4)
 
 
 # Fully Responsive Website
 
-![Ping Me Demo](github_img/img1.png)
+![fully responsive](github_img/img1.png)
 
 # Fully Functional Comment Feature
 >On Submission, the Comment goes straight to the Sanity CMS and get logged there.
 > 
-![Ping Me Demo](github_img/img2.png)
+![comment](github_img/img2.png)
 
 >Here we can see, the Stored Comments on Sanity CMS. 
 > 
-![Ping Me Demo](github_img/img3.png)
+![sanity cms](github_img/img3.png)
 
 >To show the comment on the Blog page, we(moderator) have/has to approve the comment.  
 > 
-![Ping Me Demo](github_img/img4.png)
+![approval system](github_img/img4.png)
 
 >Voila!!! Our Comment is Live on the Blog Page.
 > 
-![Ping Me Demo](github_img/img6.png)
+![display comment](github_img/img6.png)
 
 
 ## Getting Started with Next.js
@@ -49,6 +49,10 @@ Visit <a aria-label="next.js learn" href="https://nextjs.org/learn">https://next
 - To run the Sanity Dashboard : 
 <code>cd anshumanblogapp</code> then
  <code>sanity start</code>
+ 
+ - To Install Sanity Studio : 
+<code>cd anshumanblogapp</code> then
+ <code>sanity deploy</code>
 
 
 ## Deploy your own
