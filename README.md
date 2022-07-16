@@ -10,9 +10,6 @@
 
 >Inspired from [Medium.com](https://medium.com/). This Website is built using Next.js with TailwindCSS and Sanity.io as my CMS(Content Management System).</br></br>
 
-![click below img](github_img/img9.png)
-
-
 # Fully Responsive Website
 
 ![fully responsive](github_img/img1.png)
